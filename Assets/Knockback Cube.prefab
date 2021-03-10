@@ -185,7 +185,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetManager: {fileID: 0}
   isLoaded: 0
-  power: 250
+  power: 200
   audioSource: {fileID: 1373804575999025151}
 --- !u!82 &1373804575999025151
 AudioSource:
